@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5453E5B-C715-4619-8F32-7B4615C74FBD}|USERSERVICE.InfrastructureDB\\USERSERVICE.InfrastructureDB.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.infrastructuredb\\userservice.infrastructuredb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,13 +122,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "USERSERVICE.API\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "USERSERVICE.API\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowDYAAABBAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T07:48:01.014Z",
               "EditorCaption": ""
@@ -173,13 +173,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Program.cs",
               "RelativeDocumentMoniker": "USERSERVICE.API\\Program.cs",
               "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Program.cs",
               "RelativeToolTip": "USERSERVICE.API\\Program.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAcwFEAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T06:18:54.957Z",
               "EditorCaption": ""
