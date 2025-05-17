@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_task_ms\\taskservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|solutionrelative:taskservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_task_ms\\taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TASKSERVICE.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:49:59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Class1.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:49:28.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
