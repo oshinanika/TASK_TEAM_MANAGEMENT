@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|solutionrelative:teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.infrastructure\\migrations\\teambcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|solutionrelative:teamservice.infrastructure\\migrations\\teambcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.infrastructure\\migrations\\20250517094942_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|solutionrelative:teamservice.infrastructure\\migrations\\20250517094942_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|solutionrelative:teamservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|solutionrelative:teamservice\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.infrastructure\\context\\teamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|solutionrelative:teamservice.infrastructure\\context\\teamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6153D4-A1CC-4CD8-A6EB-444D42040C80}|TEAMSERVICE.Core\\TEAMSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.core\\dto\\teamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6153D4-A1CC-4CD8-A6EB-444D42040C80}|TEAMSERVICE.Core\\TEAMSERVICE.Core.csproj|solutionrelative:teamservice.core\\dto\\teamdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6153D4-A1CC-4CD8-A6EB-444D42040C80}|TEAMSERVICE.Core\\TEAMSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.core\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6153D4-A1CC-4CD8-A6EB-444D42040C80}|TEAMSERVICE.Core\\TEAMSERVICE.Core.csproj|solutionrelative:teamservice.core\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30D7F804-44D8-4F3F-8EF8-549669771694}|TEAMSERVICE\\TEAMSERVICE.API.csproj|solutionrelative:teamservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{974E948B-2E7A-410E-94F7-DB7F235D0A19}|TEAMSERVICE.Infrastructure\\TEAMSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_taskteam_ms\\teamservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,32 +67,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\appsettings.json",
-              "RelativeDocumentMoniker": "TEAMSERVICE\\appsettings.json",
-              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\appsettings.json",
-              "RelativeToolTip": "TEAMSERVICE\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T06:19:48.341Z",
+              "Title": "TEAMbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\TEAMbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Infrastructure\\Migrations\\TEAMbContextModelSnapshot.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\TEAMbContextModelSnapshot.cs",
+              "RelativeToolTip": "TEAMSERVICE.Infrastructure\\Migrations\\TEAMbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:59:49.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20250517094942_Initial.Designer.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.Designer.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.Designer.cs*",
+              "RelativeToolTip": "TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.Designer.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:59:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE\\Controllers\\TeamController.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "TEAMSERVICE\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:51:27.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250517094942_Initial.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs",
+              "RelativeToolTip": "TEAMSERVICE.Infrastructure\\Migrations\\20250517094942_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:49:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEAMDbContext.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Context\\TEAMDbContext.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Infrastructure\\Context\\TEAMDbContext.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Context\\TEAMDbContext.cs",
+              "RelativeToolTip": "TEAMSERVICE.Infrastructure\\Context\\TEAMDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:41:15.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\Program.cs",
               "RelativeDocumentMoniker": "TEAMSERVICE\\Program.cs",
               "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\Program.cs",
               "RelativeToolTip": "TEAMSERVICE\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T06:19:46.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "TeamDTOs.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Core\\DTO\\TeamDTOs.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Core\\DTO\\TeamDTOs.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Core\\DTO\\TeamDTOs.cs",
+              "RelativeToolTip": "TEAMSERVICE.Core\\DTO\\TeamDTOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:45:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Core\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "TEAMSERVICE.Core\\Entities\\Team.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Core\\Entities\\Team.cs",
+              "RelativeToolTip": "TEAMSERVICE.Core\\Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:45:04.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\appsettings.json",
+              "RelativeDocumentMoniker": "TEAMSERVICE\\appsettings.json",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE\\appsettings.json",
+              "RelativeToolTip": "TEAMSERVICE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T06:19:48.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "TEAMSERVICE.Infrastructure\\Class1.cs",
@@ -77,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASKTEAM_MS\\TEAMSERVICE.Core\\Class1.cs",
               "RelativeDocumentMoniker": "TEAMSERVICE.Core\\Class1.cs",

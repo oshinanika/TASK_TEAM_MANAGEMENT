@@ -15,4 +15,8 @@
     <PackageReference Include="Oracle.EntityFrameworkCore" Version="9.23.80" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TEAMSERVICE.Core\TEAMSERVICE.Core.csproj" />
+  </ItemGroup>
+
 </Project>
