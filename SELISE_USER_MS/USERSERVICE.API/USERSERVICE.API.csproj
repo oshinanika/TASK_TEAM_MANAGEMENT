@@ -21,7 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\USERSERVICE.CoreLogic\USERSERVICE.CoreLogic.csproj" />
     <ProjectReference Include="..\USERSERVICE.InfrastructureDB\USERSERVICE.InfrastructureDB.csproj" />
-    <ProjectReference Include="..\USERSERVICE.Infrastructure\USERSERVICE.Infrastructure.csproj" />
+
   </ItemGroup>
 
 </Project>

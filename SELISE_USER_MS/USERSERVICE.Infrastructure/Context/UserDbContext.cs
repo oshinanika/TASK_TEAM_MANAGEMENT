@@ -9,7 +9,7 @@ namespace USERSERVICE.Infrastructure.Context
         public UserDbContext(DbContextOptions<UserDbContext> options)
          : base(options) { }
 
-        public DbSet<AppUser23456> SELISE_USERS { get; set; }
+        public DbSet<AppUser23456> SELISE_USERS23456 { get; set; }
         // public DbSet<AppUser> PRACTICE_USERS_2 { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

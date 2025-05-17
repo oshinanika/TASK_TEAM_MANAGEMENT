@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\USERSERVICE.Core\USERSERVICE.Core.csproj" />
+    <ProjectReference Include="..\USERSERVICE.CoreLogic\USERSERVICE.CoreLogic.csproj" />
   </ItemGroup>
 
 </Project>

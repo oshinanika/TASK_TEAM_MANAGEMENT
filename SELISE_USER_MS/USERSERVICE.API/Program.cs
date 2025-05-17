@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Serilog;
@@ -49,13 +50,29 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+else
+{
+    app.UseExceptionHandler("/error"); // corrected casing
+    app.UseHsts();
+}
 
+app.Map("/error", (HttpContext context) =>
+{
+    var feature = context.Features.Get<IExceptionHandlerFeature>();
+    var exception = feature?.Error;
+
+
+
+    return Results.Problem("An unexpected error occurred.");
+});
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
