@@ -7,6 +7,7 @@ using TASKSERVICE.Core.Tasks;
 namespace TASKSERVICE.API.Controllers
 {
     [ApiController]
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]")]
     public class TasksController : ControllerBase
     {

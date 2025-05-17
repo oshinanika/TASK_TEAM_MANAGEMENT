@@ -11,7 +11,7 @@ using USERSERVICE.InfrastructureDB.Context;
 namespace USERSERVICE.API.Controllers
 {
     [ApiController]
-    [Authorize(AuthenticationSchemes = "Bearer")]
+
     [Route("api/[controller]")]
     public class UsersController : Controller
     {
@@ -84,6 +84,7 @@ namespace USERSERVICE.API.Controllers
 
         [Authorize(Roles = "Admin,Manager")]
         [HttpPost]
+        [Authorize(AuthenticationSchemes = "Bearer")]
         [Route("Create")]
         public IActionResult Create(AppUser user)
         {
@@ -95,6 +96,7 @@ namespace USERSERVICE.API.Controllers
 
         [Authorize(Roles = "Admin,Manager")]
         [HttpPut]
+        [Authorize(AuthenticationSchemes = "Bearer")]
         [Route("Update")]
         public IActionResult Update(Guid id, AppUser updated)
         {
@@ -108,6 +110,7 @@ namespace USERSERVICE.API.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpDelete]
+        [Authorize(AuthenticationSchemes = "Bearer")]
         [Route("Delete")]
         public IActionResult Delete(Guid id)
         {
