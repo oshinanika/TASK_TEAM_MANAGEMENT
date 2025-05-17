@@ -20,6 +20,7 @@ namespace TEAMSERVICE.API.Controllers
 
         // GET: api/team
         [HttpGet]
+        [Route("GetTeams")]
         public async Task<ActionResult<IEnumerable<Team>>> GetTeams()
         {
             return await _context.Teams.ToListAsync();
@@ -27,6 +28,7 @@ namespace TEAMSERVICE.API.Controllers
 
         // GET: api/team/{id}
         [HttpGet("{id}")]
+        [Authorize(Roles = "Admin,Employee")]
         public async Task<ActionResult<Team>> GetTeam(Guid id)
         {
             var team = await _context.Teams.FindAsync(id);
@@ -37,7 +39,7 @@ namespace TEAMSERVICE.API.Controllers
             return team;
         }
 
-        [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin,Manager")]
         [Route("CreateTeam")]
         [HttpPost]
         public async Task<ActionResult<Team>> CreateTeam([FromBody] Team team)
@@ -49,27 +51,11 @@ namespace TEAMSERVICE.API.Controllers
             return CreatedAtAction(nameof(GetTeam), new { id = team.Id }, team);
         }
 
-        // PUT: api/team/{id}
-        [HttpPut("{id}")]
-        public async Task<IActionResult> UpdateTeam(Guid id, [FromBody] Team updatedTeam)
-        {
-            if (id != updatedTeam.Id)
-                return BadRequest();
-
-            var existingTeam = await _context.Teams.FindAsync(id);
-            if (existingTeam == null)
-                return NotFound();
-
-            existingTeam.Name = updatedTeam.Name;
-            existingTeam.Description = updatedTeam.Description;
-
-            await _context.SaveChangesAsync();
-
-            return NoContent();
-        }
 
         // DELETE: api/team/{id}
         [HttpDelete("{id}")]
+        [Route("DeleteTeam")]
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> DeleteTeam(Guid id)
         {
             var team = await _context.Teams.FindAsync(id);

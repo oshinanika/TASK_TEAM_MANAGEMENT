@@ -24,6 +24,7 @@ namespace USERSERVICE.API.Controllers
         }
 
         [HttpPost("login")]
+        [Route("CreateTeam")]
         public IActionResult Login([FromBody] LoginRequestDto dto)
         {
             var user = _db.SELISE_USERS.FirstOrDefault(u => u.Email == dto.Email);
@@ -58,7 +59,7 @@ namespace USERSERVICE.API.Controllers
 
                 var token = new JwtSecurityToken(
                     issuer: _config["Jwt:Issuer"],
-
+                    audience: "TeamService",
                     claims: claims,
                     expires: DateTime.UtcNow.AddHours(1),
                     signingCredentials: creds);
@@ -74,10 +75,12 @@ namespace USERSERVICE.API.Controllers
         }
         [Authorize(Roles = "Admin,Manager,Employee")]
         [HttpGet]
+        [Route("GetAll")]
         public IActionResult GetAll() => Ok(_db.SELISE_USERS.ToList());
 
         [Authorize(Roles = "Admin,Manager")]
         [HttpPost]
+        [Route("Create")]
         public IActionResult Create(AppUser user)
         {
             user.PasswordHash = BCrypt.Net.BCrypt.HashPassword(user.PasswordHash);
@@ -88,6 +91,7 @@ namespace USERSERVICE.API.Controllers
 
         [Authorize(Roles = "Admin,Manager")]
         [HttpPut("{id}")]
+        [Route("Update")]
         public IActionResult Update(Guid id, AppUser updated)
         {
             var user = _db.SELISE_USERS.Find(id);
@@ -100,6 +104,7 @@ namespace USERSERVICE.API.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
+        [Route("Delete")]
         public IActionResult Delete(Guid id)
         {
             var user = _db.SELISE_USERS.Find(id);
