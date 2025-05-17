@@ -1,7 +1,10 @@
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Serilog;
 using System.Text;
+using TASKSERVICE.Core.Interfaces;
+using TASKSERVICE.Infrastructure.Context;
 
 Log.Logger = new LoggerConfiguration()
     .WriteTo.Console()
@@ -10,8 +13,12 @@ Log.Logger = new LoggerConfiguration()
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddDbContext<OrderDbContext>(options =>
+builder.Services.AddDbContext<TaskDbContext>(options =>
 options.UseOracle(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<ITaskDbContext, TaskDbContext>();
+
+builder.Services.AddMediatR(typeof(Program));
 
 
 builder.Services.AddAuthentication(Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerDefaults.AuthenticationScheme)
@@ -23,8 +30,8 @@ builder.Services.AddAuthentication(Microsoft.AspNetCore.Authentication.JwtBearer
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-            ValidIssuer = "AuthService",
-            ValidAudience = "OrderService",
+            ValidIssuer = "UserService",
+            ValidAudience = "TaskService",
             IssuerSigningKey = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes("your_super_long_secret_key_at_least_32_chars")
             )

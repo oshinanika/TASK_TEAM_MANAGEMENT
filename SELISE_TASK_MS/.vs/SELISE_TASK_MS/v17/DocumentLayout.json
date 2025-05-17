@@ -1,14 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\",
+  "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_task_ms\\taskservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\updatetaskstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\updatetaskstatushandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\createtaskhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.infrastructure\\context\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|solutionrelative:taskservice.infrastructure\\context\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|solutionrelative:taskservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|solutionrelative:taskservice.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\interfaces\\itaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\interfaces\\itaskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\taskservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\taskservice.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.infrastructure\\taskservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|solutionrelative:taskservice.infrastructure\\taskservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\tasks\\gettaskshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\tasks\\gettaskshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.core\\entities\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\entities\\taskitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A07867-F913-49CA-8618-53B9F6DC38F5}|TASKSERVICE.API\\TASKSERVICE.API.csproj|solutionrelative:taskservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|solutionrelative:taskservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_task_ms\\taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D2DF535-CE41-473C-BFA4-9F90E9222593}|TASKSERVICE.Core\\TASKSERVICE.Core.csproj|solutionrelative:taskservice.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_task_ms\\taskservice.infrastructure\\migrations\\20250517085008_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2153A74D-93F3-4E93-B12A-6DA74ACE67C3}|TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj|solutionrelative:taskservice.infrastructure\\migrations\\20250517085008_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +94,236 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "TASKSERVICE.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "CreateTaskHandler.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\CreateTaskHandler.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\CreateTaskHandler.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\CreateTaskHandler.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\CreateTaskHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T05:49:59Z",
+              "WhenOpened": "2025-05-17T08:55:10.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "TaskDBContext.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Context\\TaskDBContext.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\Context\\TaskDBContext.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Context\\TaskDBContext.cs",
+              "RelativeToolTip": "TASKSERVICE.Infrastructure\\Context\\TaskDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:44:17.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTaskStatusHandler.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\UpdateTaskStatusHandler.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\UpdateTaskStatusHandler.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\UpdateTaskStatusHandler.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\UpdateTaskStatusHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:08:53.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\Program.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.API\\Program.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\Program.cs",
+              "RelativeToolTip": "TASKSERVICE.API\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAawAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:19:23.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.API\\Controllers\\TasksController.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TASKSERVICE.API\\Controllers\\TasksController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:03:52.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskDbContext.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Interfaces\\ITaskDbContext.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Interfaces\\ITaskDbContext.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Interfaces\\ITaskDbContext.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Interfaces\\ITaskDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:16:39.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
               "RelativeDocumentMoniker": "TASKSERVICE.Core\\Class1.cs",
-              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Class1.cs",
               "RelativeToolTip": "TASKSERVICE.Core\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T05:49:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TASKSERVICE.Core.csproj",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\TASKSERVICE.Core.csproj",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\TASKSERVICE.Core.csproj",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\TASKSERVICE.Core.csproj*",
+              "RelativeToolTip": "TASKSERVICE.Core\\TASKSERVICE.Core.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T08:59:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TASKSERVICE.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj",
+              "RelativeToolTip": "TASKSERVICE.Infrastructure\\TASKSERVICE.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T08:48:29.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateTaskCommand.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\UpdateTaskCommand.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\UpdateTaskCommand.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\UpdateTaskCommand.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\UpdateTaskCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:05:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\GetTasksQuery.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\GetTasksQuery.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\GetTasksQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:55:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\CreateTaskCommand.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\CreateTaskCommand.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\CreateTaskCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:54:46.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskDTO.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\DTOs\\TaskDTO.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\DTOs\\TaskDTO.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\DTOs\\TaskDTO.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\DTOs\\TaskDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:45:33.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTasksHandler.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\GetTasksHandler.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Tasks\\GetTasksHandler.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Tasks\\GetTasksHandler.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Tasks\\GetTasksHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:55:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250517085008_InitialCreate.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Migrations\\20250517085008_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\Migrations\\20250517085008_InitialCreate.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Migrations\\20250517085008_InitialCreate.cs",
+              "RelativeToolTip": "TASKSERVICE.Infrastructure\\Migrations\\20250517085008_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:50:08.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaskItems.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Entities\\TaskItems.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Core\\Entities\\TaskItems.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Core\\Entities\\TaskItems.cs",
+              "RelativeToolTip": "TASKSERVICE.Core\\Entities\\TaskItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T08:43:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TASKSERVICE.API\\appsettings.json",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.API\\appsettings.json",
+              "RelativeToolTip": "TASKSERVICE.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T06:19:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TASKSERVICE.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_TASK_MS\\TASKSERVICE.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TASKSERVICE.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T05:49:59Z",
               "EditorCaption": ""
             }
           ]

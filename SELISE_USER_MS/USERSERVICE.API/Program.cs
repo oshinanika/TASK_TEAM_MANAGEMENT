@@ -60,7 +60,7 @@ if (app.Environment.IsDevelopment())
 }
 else
 {
-    app.UseExceptionHandler("/error"); // corrected casing
+    app.UseExceptionHandler("/error");
     app.UseHsts();
 }
 
