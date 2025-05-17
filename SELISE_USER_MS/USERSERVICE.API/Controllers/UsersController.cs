@@ -58,7 +58,7 @@ namespace USERSERVICE.API.Controllers
 
                 var token = new JwtSecurityToken(
                     issuer: _config["Jwt:Issuer"],
-                    audience: "UserService",
+
                     claims: claims,
                     expires: DateTime.UtcNow.AddHours(1),
                     signingCredentials: creds);

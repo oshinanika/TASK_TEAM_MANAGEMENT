@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5453E5B-C715-4619-8F32-7B4615C74FBD}|USERSERVICE.InfrastructureDB\\USERSERVICE.InfrastructureDB.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.infrastructuredb\\migrations\\20250517074208_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5453E5B-C715-4619-8F32-7B4615C74FBD}|USERSERVICE.InfrastructureDB\\USERSERVICE.InfrastructureDB.csproj|solutionrelative:userservice.infrastructuredb\\migrations\\20250517074208_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|solutionrelative:userservice.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D5A0A28-6B7F-48A3-8D49-FAD907BE8638}|USERSERVICE.API\\USERSERVICE.API.csproj|d:\\fh_personal\\practice_projects\\interview_sample_proj\\selise\\selise_github\\task_team_management\\selise_user_ms\\userservice.api\\userservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 222,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.InfrastructureDB\\Context\\UserDbContext.cs",
               "RelativeDocumentMoniker": "USERSERVICE.InfrastructureDB\\Context\\UserDbContext.cs",
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "USERSERVICE.API\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "USERSERVICE.API\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwEoAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T07:48:01.014Z",
               "EditorCaption": ""
@@ -143,25 +143,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20250517074208_InitialCreate.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.InfrastructureDB\\Migrations\\20250517074208_InitialCreate.cs",
               "RelativeDocumentMoniker": "USERSERVICE.InfrastructureDB\\Migrations\\20250517074208_InitialCreate.cs",
               "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.InfrastructureDB\\Migrations\\20250517074208_InitialCreate.cs",
               "RelativeToolTip": "USERSERVICE.InfrastructureDB\\Migrations\\20250517074208_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T07:42:09.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Program.cs",
               "RelativeDocumentMoniker": "USERSERVICE.API\\Program.cs",
-              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Program.cs*",
-              "RelativeToolTip": "USERSERVICE.API\\Program.cs*",
+              "ToolTip": "D:\\FH_PERSONAL\\Practice_PROJECTS\\INTERVIEW_SAMPLE_PROJ\\SELISE\\SELISE_GITHUB\\TASK_TEAM_MANAGEMENT\\SELISE_USER_MS\\USERSERVICE.API\\Program.cs",
+              "RelativeToolTip": "USERSERVICE.API\\Program.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAMwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T06:18:54.957Z",

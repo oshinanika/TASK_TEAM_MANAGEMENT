@@ -14,7 +14,7 @@ namespace TASKSERVICE.Infrastructure.Context
         {
             modelBuilder.Entity<TaskItems>(entity =>
             {
-                entity.ToTable("SELISE_TASKS");
+                entity.ToTable("PRACTICE_TASKS");
                 entity.HasKey(e => e.Id);
 
                 entity.Property(e => e.Id).HasColumnName("ID");

@@ -7,6 +7,7 @@ using TEAMSERVICE.Infrastructure.Context;
 namespace TEAMSERVICE.API.Controllers
 {
     [ApiController]
+    [Authorize(AuthenticationSchemes = "Bearer")]
     [Route("api/[controller]")]
     public class TeamController : ControllerBase
     {
@@ -36,7 +37,8 @@ namespace TEAMSERVICE.API.Controllers
             return team;
         }
 
-        [Authorize(Roles = "Admin,Manager,Employee")]
+        [Authorize(Roles = "Admin")]
+        [Route("CreateTeam")]
         [HttpPost]
         public async Task<ActionResult<Team>> CreateTeam([FromBody] Team team)
         {
