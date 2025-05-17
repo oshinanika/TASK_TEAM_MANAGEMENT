@@ -10,6 +10,9 @@ using USERSERVICE.InfrastructureDB.Context;
 
 namespace USERSERVICE.API.Controllers
 {
+    [ApiController]
+    [Authorize(AuthenticationSchemes = "Bearer")]
+    [Route("api/[controller]")]
     public class UsersController : Controller
     {
         private readonly UserDbContext _db;
@@ -23,8 +26,8 @@ namespace USERSERVICE.API.Controllers
             _logger = logger;
         }
 
-        [HttpPost("login")]
-        [Route("CreateTeam")]
+        [HttpPost]
+        [Route("Login")]
         public IActionResult Login([FromBody] LoginRequestDto dto)
         {
             var user = _db.SELISE_USERS.FirstOrDefault(u => u.Email == dto.Email);
@@ -33,7 +36,7 @@ namespace USERSERVICE.API.Controllers
 
 
             var token = GenerateJwtToken(user);
-
+            _logger.LogInformation("token generated  at {Time}", DateTime.UtcNow);
             if (String.IsNullOrEmpty(token)) return BadRequest("Cannot Generate Token1!");
             return Ok(new LoginResponseDto
             {
@@ -64,6 +67,7 @@ namespace USERSERVICE.API.Controllers
                     expires: DateTime.UtcNow.AddHours(1),
                     signingCredentials: creds);
 
+
                 return new JwtSecurityTokenHandler().WriteToken(token);
             }
             catch (Exception ex)
@@ -73,7 +77,7 @@ namespace USERSERVICE.API.Controllers
                 return null;
             }
         }
-        [Authorize(Roles = "Admin,Manager,Employee")]
+
         [HttpGet]
         [Route("GetAll")]
         public IActionResult GetAll() => Ok(_db.SELISE_USERS.ToList());
@@ -90,7 +94,7 @@ namespace USERSERVICE.API.Controllers
         }
 
         [Authorize(Roles = "Admin,Manager")]
-        [HttpPut("{id}")]
+        [HttpPut]
         [Route("Update")]
         public IActionResult Update(Guid id, AppUser updated)
         {
@@ -103,7 +107,7 @@ namespace USERSERVICE.API.Controllers
         }
 
         [Authorize(Roles = "Admin")]
-        [HttpDelete("{id}")]
+        [HttpDelete]
         [Route("Delete")]
         public IActionResult Delete(Guid id)
         {
